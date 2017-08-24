@@ -1,1 +1,10 @@
 theme: jekyll-theme-leap-day
+title: Civitaspo Home
+email: civitaspo@gmail.com
+description: >- 
+  This Site is Civitaspo's Home Page.
+  Here is the Service Link Collection that Civitaspo Uses.
+baseurl: ""
+url: "https://civitaspo.pro"
+twitter_username: Civitaspo
+github_username:  civitaspo
