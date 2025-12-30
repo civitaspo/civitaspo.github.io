@@ -1,3 +1,3 @@
-# civitaspo.pro
+# civitaspo.com
 
-This is my Home Page.
+This repository is archived. See. [civitaspo.com](https://civitaspo.com/).
